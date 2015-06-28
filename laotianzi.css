@@ -1,0 +1,83 @@
+/* >>> Absolute global: */
+
+body {
+	margin: 10px;
+	text-align: center;
+	cursor: default;
+	color: white;
+	font-family: Helvetica;
+}
+.nav-pills > li {
+  float: center;
+  display:inline-block;
+}
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 55px;
+}
+
+.Ttl{
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+}
+ .bdyStyl {
+	background-image: url("IMG_2576.gif");
+	background-size: 1417px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+.dvSlt {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 800px;
+	display: inline-block;
+	border: 1px solid #FFD700;
+	border-radius: 40px;
+	background-color: #40E0D0;
+	opacity: 0.8;
+	background-position:center;
+}
+
+#a1 {
+	background-color: #00FA9A;
+}
+#a2 {
+	background-color: #00FFff;	
+}
+#a3 {
+	/*background: -webkit-linear-gradient(#40E0D0, #ff00ff, #00ff00, #FF6347);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	*/}
+#a3 {
+	border-radius: 0 0 40px 40px;
+	background-color: #00bfff;	
+}
+.p .dvSlt{
+	text-align: right;
+}
+.p {
+	font-family: monospace;
+	font-size: 20px;
+	color: white;
+	text-align: right;
+}
+
+/* >>> Anchors: */
+.aEXT {
+	text-align: left;
+	font-size: 15px;
+
+}
+a.top {
+	color: white;
+	padding-right: 13px;
+}
+
+.divTranp divPubl {
+	text-align: left;
+	font-size: 15px;
+}
